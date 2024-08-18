@@ -1,0 +1,16 @@
+---
+title: "First_doc"
+author: "Monica Bianchini"
+date: "2024-08-18"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, test-plot}
+plot(cars)
+
+```
+
