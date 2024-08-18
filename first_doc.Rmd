@@ -9,6 +9,9 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+My first version controlled project in R Studio
+
+Test plot:
 ```{r, test-plot}
 plot(cars)
 
